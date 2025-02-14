@@ -8,6 +8,6 @@
 для просмотра на тестовом сервие перейдите по адресу https://wc.alexweb.spb.ru/catalog/.
 
 доступ в админку сайта:\
-https://wc.alexweb.spb.ru/wp-admin/\
+https://wc.alexweb.spb.ru/wp-admin/ \
 admin\
 @Q81xabwpY!06YVeKoUEoOPO
